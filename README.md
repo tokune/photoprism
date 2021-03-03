@@ -1,4 +1,4 @@
-PhotoPrism: Browse Your Life in Pictures
+PhotoPrism: Browse Your Life in Pictures 
 ========================================
 
 [![License: AGPL](https://img.shields.io/badge/license-AGPL-blue.svg)][license]
